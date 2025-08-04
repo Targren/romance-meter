@@ -42,12 +42,18 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 
 - Extend getLevel to include negative tiers: 
 
-  -1 (0 to -15) 
+  -1 (0 to -15)
+
   -2 (-16 to -35) 
+
   -3 (-36 to -60) 
+
   -4 (-61 to -75) 
+
   -5 (-76 to -99) 
+
   -6 (-100 and below) 
+
   mirroring positive ranges but uncapped low.
 
 - Inject escalating negative prompts in romanceInterceptor on level drops (once per change):
