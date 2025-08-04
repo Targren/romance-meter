@@ -35,6 +35,10 @@ As someone who doesn't have an iOS device, I saw the release of Ani and companio
 3. Enable in the extensions settings and reset to start.
 <img width="1274" height="1257" alt="image" src="https://github.com/user-attachments/assets/24768b7b-132f-42d4-bf27-20a106043ed7" />
 
+After enabling it in the extenstion settings it should appear like this:
+<img width="1275" height="539" alt="image" src="https://github.com/user-attachments/assets/7d0ef0ce-9245-437c-913c-2217e2e4abcb" />
+
+
 
 ---
 
