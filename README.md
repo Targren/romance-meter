@@ -16,7 +16,7 @@ Key features:
 - **Outfit Dynamics:** Triggers a lingerie switch at 100, with a spiteful revert if the score drops, reflected in the UI.
 - **Custom UI:** Real-time progress bar and outfit display, with a reset button to start fresh.
 
-Perfect for roleplayers who love building emotional arcs or testing their charm! Designed for solo chats with characters like Ani, it’s still a work in progress—group chat support and negative levels (-1 to -6) are on the roadmap.
+Perfect for roleplayers who love building emotional arcs or testing their charm! Designed for solo chats with characters like Ani, it’s still a work in progress negative levels (-1 to -6) are on the roadmap.
 
 ---
 
