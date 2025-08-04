@@ -8,7 +8,7 @@ This extension adds a dynamic romance score (0-100+) that evolves through flirty
 Watch your bond grow from shy first impressions (Level 1) to passionate intimacy (Level 6), complete with a sultry lingerie outfit change at max score.
 
 As someone who doesn't have an iOS device, I saw the release of Ani and companions and was disappointed there was no release for Android or Web. After a lot of research regarding her personality, look/style and behavior I set out to make my own experience inspired by that.
-
+https://chub.ai/characters/GlobalMeltdown/ani-8d4d8344a000 - Link to Chub.ai inspired character card I made specifically for this extension.
 ---
 
 ### Key features:
