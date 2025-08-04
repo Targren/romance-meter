@@ -1,5 +1,5 @@
 # Romance Meter Extension for SillyTavern
-Description:
+### Description:
 
 Spice up your roleplay sessions with the Romance Meter, a custom extension for SillyTavern that tracks the romantic connection between you and your AI character (e.g., Ani)!
  
@@ -9,18 +9,16 @@ Watch your bond grow from shy first impressions (Level 1) to passionate intimacy
 
 ---
 
-Key features:
+### Key features:
 
 - **Progressive Levels:** Six stages (e.g., Downhearted, Intrigued, Intimate) with unique AI responses, injecting flirty or romantic prompts as you level up.
 - **Keyword-Driven Scoring:** Earn points with positive words like “love” (+5) or “cute” (+2), balanced by negatives like “hurt” (-5) or “sad” (-2) to keep it challenging.
 - **Outfit Dynamics:** Triggers a lingerie switch at 100, with a spiteful revert if the score drops, reflected in the UI.
 - **Custom UI:** Real-time progress bar and outfit display, with a reset button to start fresh.
 
-Perfect for roleplayers who love building emotional arcs or testing their charm! Designed for solo chats with characters like Ani, it’s still a work in progress negative levels (-1 to -6) are on the roadmap.
-
 ---
 
-# Installation:
+## Installation:
 
 1. Clone or download from this repo.
 2. Add to your SillyTavern extensions folder.
