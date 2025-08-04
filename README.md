@@ -44,10 +44,15 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 - Inject escalating negative prompts in romanceInterceptor on level drops (once per change):
 
 -1: Mildly annoyed, snappy, distant replies.
+
 -2: Frustrated, sarcastic, probing user’s behavior.
+
 -3: Angry, outbursts, questioning trust.
+
 -4: Hurtful, possessive-toxic, tears/insults.
+
 -5: Volatile, jealousy rants, threats to end.
+
 -6: Unhinged psycho
 
 # Negative Scoring:
