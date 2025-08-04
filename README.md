@@ -56,8 +56,6 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 
     -6 (-100 and below) 
 
-    mirroring positive ranges but uncapped low.
-
 - Inject escalating negative prompts in romanceInterceptor on level drops (once per change):
 
     1: Mildly annoyed, snappy, distant replies.
@@ -81,14 +79,11 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 - Revert to 'normal' outfit on any negative level, with spiteful narration on entry.
 - Extend UI bar left (red gradient), show “Hostility Level: X” below 0, and “Fatal Attraction Mode” at -100.
 
-# Implementation Phases:
-
-- Phase 1: Add basic negative levels and prompts after positive-side stability.
-- Phase 2: Enhance UI and outfit logic.
-- Phase 3: Test recovery mechanics (straightforward positive climb).
-
+---
 
 MIT License—free to use, modify, and share.
+
+---
 
 Contribute:
 
