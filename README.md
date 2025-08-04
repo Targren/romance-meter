@@ -31,7 +31,7 @@ As someone who doesn't have an iOS device, I saw the release of Ani and companio
 ## Installation:
 
 1. Clone or download from this repo.
-2. Add to your SillyTavern extensions folder.  (It should appear like this Example if installed correctly: YourInstallationPathHere\SillyTavern-1.13.1\SillyTavern-1.13.1\data\default-user\extensions\romance-meter)
+2. Add to your SillyTavern extensions folder.  (It should appear like this Example if installed correctly: Your-Installation-Path-Here\SillyTavern-1.13.1\SillyTavern-1.13.1\data\default-user\extensions\romance-meter)
 3. Enable in the extensions settings and reset to start.
 <img width="1274" height="1257" alt="image" src="https://github.com/user-attachments/assets/24768b7b-132f-42d4-bf27-20a106043ed7" />
 
