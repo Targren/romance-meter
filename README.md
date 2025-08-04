@@ -70,7 +70,7 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 
     6: Unhinged psycho
 
-- Negative Scoring:
+### Negative Scoring:
 
 - Use existing negative keywords (hurt, angry, etc.) for natural drops (-2/-5 per hit), driven by user cruelty, no forced acceleration.
 
