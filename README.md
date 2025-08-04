@@ -20,6 +20,7 @@ As someone who doesn't have an iOS device, I saw the release of Ani and companio
 
 <img width="634" height="129" alt="image" src="https://github.com/user-attachments/assets/dfc53a4e-ae19-4c4f-9c37-67f8bdc45e1d" />
 
+<img width="627" height="120" alt="image" src="https://github.com/user-attachments/assets/4f789a98-1b07-4a56-8776-36d136994da3" />
 
 
 <img width="634" height="126" alt="RomanceLingerie" src="https://github.com/user-attachments/assets/7a3d538b-3bd9-49b3-bdff-6b8372e0d1b9" />
