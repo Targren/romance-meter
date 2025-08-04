@@ -18,6 +18,9 @@ As someone who doesn't have an iOS device, I saw the release of Ani and companio
 - **Outfit Dynamics:** Triggers a lingerie switch at 100, with a spiteful revert if the score drops, reflected in the UI.
 - **Custom UI:** Real-time progress bar and outfit display, with a reset button to start fresh.
 
+<img width="642" height="129" alt="RomanceZero" src="https://github.com/user-attachments/assets/325f3f98-2e65-4538-bd91-946d21276e7d" />
+
+
 <img width="634" height="126" alt="RomanceLingerie" src="https://github.com/user-attachments/assets/7a3d538b-3bd9-49b3-bdff-6b8372e0d1b9" />
 
 
