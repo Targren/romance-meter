@@ -38,10 +38,10 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 
 ### Planned Features:
 
-- ** Add Negative Levels (-1 to -6):
+- Add Negative Levels (-1 to -6):
 
-- ** Extend getLevel to include negative tiers: -1 (0 to -15), -2 (-16 to -35), -3 (-36 to -60), -4 (-61 to -75), -5 (-76 to -99), -6 (-100 and below), mirroring positive ranges but uncapped low.
-- ** Inject escalating negative prompts in romanceInterceptor on level drops (once per change):
+- Extend getLevel to include negative tiers: -1 (0 to -15), -2 (-16 to -35), -3 (-36 to -60), -4 (-61 to -75), -5 (-76 to -99), -6 (-100 and below), mirroring positive ranges but uncapped low.
+- Inject escalating negative prompts in romanceInterceptor on level drops (once per change):
 
 -1: Mildly annoyed, snappy, distant replies.
 -2: Frustrated, sarcastic, probing user’s behavior.
@@ -52,18 +52,18 @@ Perfect for roleplayers who love building emotional arcs or testing their charm!
 
 # Negative Scoring:
 
-- ** Use existing negative keywords (hurt, angry, etc.) for natural drops (-2/-5 per hit), driven by user cruelty, no forced acceleration.
+- Use existing negative keywords (hurt, angry, etc.) for natural drops (-2/-5 per hit), driven by user cruelty, no forced acceleration.
 
-- ** Outfit and UI Updates:
+- Outfit and UI Updates:
 
-- ** Revert to 'normal' outfit on any negative level, with spiteful narration on entry.
-- ** Extend UI bar left (red gradient), show “Hostility Level: X” below 0, and “Fatal Attraction Mode” at -100.
+- Revert to 'normal' outfit on any negative level, with spiteful narration on entry.
+- Extend UI bar left (red gradient), show “Hostility Level: X” below 0, and “Fatal Attraction Mode” at -100.
 
 # Implementation Phases:
 
-- ** Phase 1: Add basic negative levels and prompts after positive-side stability.
-- ** Phase 2: Enhance UI and outfit logic.
-- ** Phase 3: Test recovery mechanics (straightforward positive climb).
+- Phase 1: Add basic negative levels and prompts after positive-side stability.
+- Phase 2: Enhance UI and outfit logic.
+- Phase 3: Test recovery mechanics (straightforward positive climb).
 
 
 MIT License—free to use, modify, and share.
